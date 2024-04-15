@@ -14,7 +14,7 @@ Week by week, I tackle new projects, eager to learn new skills and deepen my und
 
 With a background in Robotics and Intelligent Devices from the University of Maynooth and nearly 2 years of experience as a Cloud Support Engineer specializing in Big Data and ETL services at AWS, I have a blend of analytical thinking and hands-on expertise.
 
-My days at AWS are spent optimizing ETL processes, troubleshooting complex issues, and designing scalable architectures to enhance data pipeline efficiency and reliability.
+My days at AWS are spent optimising ETL processes, troubleshooting complex issues, and designing scalable architectures to enhance data pipeline efficiency and reliability.
 
 I plan to share my experiences mastering fundamental data engineering concepts, crafting robust pipelines, and experimenting with various tools and technologies. From foundational projects to more complex endeavors, I'll document my journey and insights along the way.
 
