@@ -10,7 +10,7 @@
 
 Welcome to my Data Engineering Journey!
 
-Week by week, I tackle new projects, eager to learn new skills and deepen my understanding of data engineering.
+Week by week, I attempt to tackle new projects, eager to learn new skills and deepen my understanding of data engineering.
 
 With a background in Robotics and Intelligent Devices from the University of Maynooth and nearly 2 years of experience as a Cloud Support Engineer specializing in Big Data and ETL services at AWS, I have a blend of analytical thinking and hands-on expertise.
 
