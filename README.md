@@ -8,17 +8,15 @@
 
 [![Github](https://img.shields.io/github/followers/andreisacal?label=Follow&style=social)](https://github.com/andreisacal)
 
-Welcome to my Data Engineering Journey!
+Welcome to my programming Journey!
 
-I'll be attempting to tackle various projects eager to learn new skills and deepen my understanding of data engineering.
+I'll be attempting to tackle various projects eager to learn new skills and deepen my understanding of various topics.
 
 With a background in Robotics and Intelligent Devices from the University of Maynooth and nearly 2 years of experience as a Cloud Support Engineer specialising in Big Data and ETL services at AWS, I have a blend of analytical thinking and hands-on experience.
 
-My days at AWS are spent optimising customer ETL processes, troubleshooting complex issues and helping customers design scalable architectures to enhance their data pipeline efficiency and reliability.
+My days at AWS were spent optimising customer ETL processes, troubleshooting complex issues and helping customers design scalable architectures to enhance their data pipeline efficiency and reliability.
 
-I plan to share my experiences mastering fundamental data engineering concepts, crafting robust pipelines and experimenting with various tools and technologies. From foundational projects to more complex endeavors, I'll document my journey and insights along the way.
-
-Stay tuned as I navigate through the challenges and discoveries in the dynamic world of data engineering.
+I plan to share my experiences mastering programming concepts and experimenting with various tools and technologies. From foundational projects to more complex endeavors, I'll document my journey and insights along the way.
 
 ### 🖥 Skills
 
