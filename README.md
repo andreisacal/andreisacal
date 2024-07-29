@@ -23,6 +23,7 @@ I plan to share my experiences mastering programming concepts and experimenting 
 - Cloud Computing
 - Data Engineering
 - Engineering
+- AI
 
 <div>
   <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=andreisacal&show_icons=true&locale=en&layout=compact" alt="andreisacal" />
